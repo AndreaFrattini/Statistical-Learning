@@ -7,5 +7,4 @@ The aim of this paper is to analyze the ”California’s Housing Price” Kaggl
 and then a comparison between the mean square errors provided by these models will be performed. Afterwards, in the second part, other two Unsupervised Learning techniques will be implemented:
  - Principal Component Analysis
  - K-means Clustering
-for visually evaluating the behavior of the data. In the end, it is
-provided a conclusion of the analysis performed.
+for visually evaluating the behavior of the data. In the end, it is provided a conclusion of the analysis performed.
